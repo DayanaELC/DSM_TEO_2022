@@ -1,0 +1,38 @@
+com/example/ejemploadapter/Variables.java
+ com.example.ejemploadapter.Variables
+com/example/ejemploadapter/BuildConfig.java
+ com.example.ejemploadapter.BuildConfig
+com/example/ejemploadapter/GridAdapter.java
+ com.example.ejemploadapter.GridAdapter
+ com.example.ejemploadapter.GridAdapter$1
+com/example/ejemploadapter/MainActivityPan.java
+ com.example.ejemploadapter.MainActivityPan
+ com.example.ejemploadapter.MainActivityPan$1
+ com.example.ejemploadapter.MainActivityPan$2
+com/example/ejemploadapter/MainActivity.java
+ com.example.ejemploadapter.MainActivity
+ com.example.ejemploadapter.MainActivity$1
+com/example/ejemploadapter/MainActivityCarne.java
+ com.example.ejemploadapter.MainActivityCarne
+ com.example.ejemploadapter.MainActivityCarne$1
+ com.example.ejemploadapter.MainActivityCarne$2
+com/example/ejemploadapter/MainActivityComplemento.java
+ com.example.ejemploadapter.MainActivityComplemento
+ com.example.ejemploadapter.MainActivityComplemento$1
+ com.example.ejemploadapter.MainActivityComplemento$2
+com/example/ejemploadapter/MainActivityAderezo.java
+ com.example.ejemploadapter.MainActivityAderezo
+ com.example.ejemploadapter.MainActivityAderezo$1
+ com.example.ejemploadapter.MainActivityAderezo$2
+com/example/ejemploadapter/MainActivityQueso.java
+ com.example.ejemploadapter.MainActivityQueso
+ com.example.ejemploadapter.MainActivityQueso$1
+ com.example.ejemploadapter.MainActivityQueso$2
+com/example/ejemploadapter/MainActivityAcomp.java
+ com.example.ejemploadapter.MainActivityAcomp
+ com.example.ejemploadapter.MainActivityAcomp$1
+ com.example.ejemploadapter.MainActivityAcomp$2
+com/example/ejemploadapter/MainActivityResultado.java
+ com.example.ejemploadapter.MainActivityResultado
+ com.example.ejemploadapter.MainActivityResultado$1
+ com.example.ejemploadapter.MainActivityResultado$2
